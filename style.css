@@ -16,7 +16,7 @@ main {
   background-color: #C3D4F6;
   height: 500px;
   width: 500px;
-  box-shadow: inset -5px -5px 10px rgba(255, 255, 255, 0.5), inset 5px 5px 10px rgba(0, 0, 0, 0.33);
+  box-shadow: inset -5px -5px 10px rgba(255, 255, 255, 0.33), inset 5px 5px 10px rgba(0, 0, 0, 0.33);
   border-radius: 10px;
   display: flex;
   flex-direction: column;
