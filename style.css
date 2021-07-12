@@ -100,7 +100,7 @@ img {
     background-color: antiquewhite;
   }
   .tho:hover{
-    animation: none;
+    animation: none !important;
   }
 
   .thefirstline {
