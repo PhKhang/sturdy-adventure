@@ -99,6 +99,9 @@ img {
     font-size: 1.25rem;
     background-color: antiquewhite;
   }
+  .tho:hover{
+    animation: none;
+  }
 
   .thefirstline {
     font-size: 4rem;
