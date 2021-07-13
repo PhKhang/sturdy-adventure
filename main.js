@@ -3,4 +3,4 @@ function setcolour(){
     setTimeout(function () {document.title="Another BigWave~";},200);
     
 }
-var thing = setInterval(setcolour, 5000);
+var thing = setInterval(setcolour, 50000);
