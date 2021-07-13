@@ -1,9 +1,6 @@
-window.onload = function() {
-
-
-    var doantho = document.getElementsByClassName("tho")[0];
+function setcolour(){
+    document.title="Another \u30DF\u30AB\u30C5\u30ADBigWave~"
+    setTimeout(function () {document.title="Another BigWave~";},90);
     
-    //doantho.addEventListener("click", foo);
-    function foo(){
-        doantho.style.background= "red";    
-    }}
+}
+var thing = setInterval(setcolour, 5000);
